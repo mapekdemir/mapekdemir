@@ -5,7 +5,7 @@
 
 [<img align="left" alt="iletisim | Telegram" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111708.svg" />][Telegram]
 [<img align="left" alt="iletisim | Instagram" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384015.svg" />][Instagram]
-[<img align="left" alt="iletisim | Linkedin" width="25px"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="iletisim | Linkedin" width="25px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 
 <br />
 <br />
