@@ -1,3 +1,5 @@
+<img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortCurly&accessoriesType=Blank&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Gray02&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Default&skinColor=Light'
+/>
 <h1 align="left" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Merhaba,<br>Ben Muhammet Ali Pekdemir</h1>
 
 <h2 style="color:Green;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> İletişim: </h2>
