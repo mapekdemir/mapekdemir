@@ -1,7 +1,7 @@
 
-<h1 align="left" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Merhaba,<br>Ben Muhammet Ali Pekdemir</h1>
+<h1 align="left" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello!,<br>I'm Muhammet Ali</h1>
 
-<h2 style="color:Green;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> İletişim: </h2>
+<h2 style="color:Green;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> Connect with Me: </h2>
 
 [<img align="left" alt="iletisim | Telegram" width="35px" src="https://www.svgrepo.com/show/473804/telegram.svg" />][Telegram]
 [<img align="left" alt="iletisim | Instagram" width="36px" src="https://www.svgrepo.com/show/433541/instagram-f.svg" />][Instagram]
@@ -13,7 +13,7 @@
 ---
 
 <details>
-  <summary>Github İstatistikleri</summary>
+  <summary>My Github Stats</summary>
 <a href="https://github.com/mapekdemir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mapekdemir&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="mapekdemir's github stats" /></a> 
 <a href="https://github.com/mapekdemir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapekdemir&layout=compact&theme=buefy&hide_border=true" /></a>
 </details>
