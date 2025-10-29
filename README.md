@@ -14,8 +14,8 @@
 
 <details>
   <summary>Github İstatistikleri</summary>
-| <a href="https://github.com/mapekdemir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mapekdemir&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="mapekdemir's github stats" /></a> | <a href="https://github.com/mapekdemir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapekdemir&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/mapekdemir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mapekdemir&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="mapekdemir's github stats" /></a> 
+<a href="https://github.com/mapekdemir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapekdemir&layout=compact&theme=buefy&hide_border=true" /></a>
 </details>
 
 
