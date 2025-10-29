@@ -14,11 +14,13 @@
 
 <details>
   <summary>Github İstatistikleri</summary>
-![mapekdemir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapekdemir&show_icons=true&theme=transparent)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 </details>
-
-
-  <img align="center" alt="mapedkdemir Github İstatistikleri" src="https://readmestats.vercel.app/api?username=mapekdemir&show_icons=true&title_color=333&icon_color=d43111&count_private=true&include_all_commits=true" />
 
 
   
